@@ -1,5 +1,5 @@
-Attendance Face Recognition System
-Project Status: 70%–80% Completed
+Attendance Face Recognition System. 
+Project Status: 70%–80% Completed. 
 This system is designed to help organizations manage employee attendance using facial recognition technology. It includes modules for user management, authentication, attendance tracking, shift scheduling, department operations, and face-based check-in/check-out.
 
 I am responsible for:
